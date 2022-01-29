@@ -1,0 +1,16 @@
+{
+  "name": "sample-esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.67.0"
+  }
+}
